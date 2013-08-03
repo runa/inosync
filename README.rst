@@ -31,7 +31,7 @@ Usage
 
   inosync [OPTIONS]
 
-    -c FILE     load configuration from FILE
+    -c FILE     load configuration from FILE. Extension must be .py
     -d          daemonize (fork to background)
     -p          do not actually call rsync
     -v          print debugging information
